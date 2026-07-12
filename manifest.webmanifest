@@ -1,0 +1,10 @@
+{
+  "name": "Vokabel-Trainer",
+  "short_name": "Vokabel-Trainer",
+  "start_url": "/eng-vocabul/",
+  "scope": "/eng-vocabul/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFBF2",
+  "theme_color": "#FFB4A2"
+}
